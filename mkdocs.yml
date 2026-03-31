@@ -1,7 +1,7 @@
 # Project Information
 site_name: Arabian vACC - Library
 site_description: Access essential tools and information for pilots and controllers in the Arabian vACC. From charts and procedures to training and sector files, everything you need for a seamless and realistic experience on the VATSIM network is here.
-site_url: https://library.arabian-vacc.com
+site_url: https://library.vatsim-arabian.com
 repo_url: https://github.com/arabian-vacc/library
 repo_name: arabian-vacc/library
 edit_uri: ""
