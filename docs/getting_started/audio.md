@@ -9,7 +9,7 @@ There are two audio clients available for use on VATSIM:
       - [Download Audio for VATSIM](https://audio.vatsim.net/assets/files/audio-for-vatsim-12376d020a19027dcad44bb0be1a2ca7.msi)  
 
 - **Track Audio**  
-      - [Download Track Audio](https://github.com/pierr3/TrackAudio/releases/tag/1.3.0-beta.4)  
+      - [Download Track Audio](https://github.com/pierr3/TrackAudio/releases/tag/1.4.0-beta.4)  
 
 ---
 
